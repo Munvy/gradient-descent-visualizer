@@ -1,4 +1,4 @@
-# Gradient Descent in a Saddle Point (3D Visualization)
+# Gradient Descent in a Saddle Point (3D Visualization
 
 ## 🎯 Cel projektu
 Wizualizacja zachowania algorytmu Gradient Descent (spadku gradientu) w otoczeniu punktu siodłowego. Projekt pokazuje, jak algorytm "ucieka" z lokalnego płaskowyżu, co jest kluczowym zagadnieniem w uczeniu sieci neuronowych.
