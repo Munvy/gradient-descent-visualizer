@@ -6,7 +6,7 @@ Wizualizacja zachowania algorytmu Gradient Descent (spadku gradientu) w otoczeni
 ## 📊 Wynik działania
 Poniżej wizualizacja 3D ścieżki algorytmu (czarna linia), który startuje blisko punktu siodłowego i przyspiesza w dół zbocza.
 
-![Wizualizacja Siodła](Figure_3.png)
+![Wizualizacja Gradient Descent](gradient-descent-plot.png)
 
 ## 🛠️ Technologie
 - **Python 3.x**
