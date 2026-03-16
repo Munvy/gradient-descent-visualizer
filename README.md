@@ -12,7 +12,3 @@ Poniżej wizualizacja 3D ścieżki algorytmu (czarna linia), który startuje bli
 - **Python 3.x**
 - **NumPy** (obliczenia macierzowe)
 - **Matplotlib** (wizualizacja 3D)
-
-## 🚀 Jak uruchomić?
-1. Zainstaluj biblioteki: `pip install numpy matplotlib`
-2. Uruchom skrypt: `python gradient_descent_saddle.py`
